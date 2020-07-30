@@ -1,4 +1,5 @@
 ResourceId,Date,WorkPackage,CostCode,HoursWorked,LocationName,LocationLat,LocationLon
+"""""""""""
 100001,2020-07-01,WP-001,C-001,8,London,"51.509865","-0.118092"
 100001,2020-07-02,WP-001,C-001,8,London,"51.509865","-0.118092"
 100001,2020-07-03,WP-001,C-001,8,London,"51.509865","-0.118092"
